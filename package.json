@@ -1,6 +1,6 @@
 {
   "name": "dotenv-json-complex",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Load complex enviroment variable via JSON file",
   "main": "index.js",
   "scripts": {
@@ -24,7 +24,7 @@
     "complex json"
   ],
   "author": "Lucas Medeiros Cardoso",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/mlucascardoso/dotenv-json-complex/issues"
   },
