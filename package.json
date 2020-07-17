@@ -1,6 +1,6 @@
 {
   "name": "dotenv-json-complex",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Load complex enviroment variable via JSON file",
   "main": "index.js",
   "scripts": {
